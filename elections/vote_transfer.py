@@ -1,5 +1,6 @@
 from dataclasses import dataclass
 from typing import List, Dict
+import plotly.graph_objects as go
 from .party import Party
 from .vote import Votes, Candidate
 
@@ -100,6 +101,9 @@ class VoteTransferModel:
         duels_per_party = {
             party: 0 for party in transferring_parties
         }
+        abstention_per_party = {
+            party: 0 for party in transferring_parties
+        }
 
         for party in transferring_parties:
             single_vote = Votes({Candidate('in', party): 1.0}, abstention=0.0)
@@ -113,6 +117,7 @@ class VoteTransferModel:
                 candidates = [Candidate('out' + str(i), party)
                               for i, party in enumerate(duel)]
                 transferred_vote = self.transfer_votes(candidates, single_vote)
+                abstention_per_party[party] += transferred_vote.abstention
 
                 for candidate in candidates:
                     if candidate.party in transferred_votes_dict:
@@ -124,27 +129,34 @@ class VoteTransferModel:
 
         averaged_transferred_votes = {}
         for party, votes in transferred_votes.items():
+            if duels_per_party[party] == 0:
+                continue
+
             averaged_transferred_votes[party] = {}
             for target_party, vote in votes.items():
                 averaged_transferred_votes[party][target_party] = vote / \
                     duels_per_party[party]
+            abstention_per_party[party] /= duels_per_party[party]
 
         source = []
         target = []
         value = []
 
         for party, votes in averaged_transferred_votes.items():
-            sum_of_votes = 0
+            if duels_per_party[party] == 0:
+                continue
+
             for target_party, vote in votes.items():
-                source.append(input_labels.index(party.name))
-                target.append(len(input_labels) +
-                              output_labels.index(target_party.name))
-                value.append(vote)
-                sum_of_votes += vote
-            if sum_of_votes < 1.0:
+                if vote > 0:
+                    source.append(input_labels.index(party.name))
+                    target.append(len(input_labels) +
+                                  output_labels.index(target_party.name))
+                    value.append(vote)
+
+            if abstention_per_party[party] > 0:
                 source.append(input_labels.index(party.name))
                 target.append(abstention_index)
-                value.append(1.0 - sum_of_votes)
+                value.append(abstention_per_party[party])
 
         transfers = {
             'source': source,
@@ -153,3 +165,17 @@ class VoteTransferModel:
         }
 
         return all_labels, transfers
+
+
+def plot_vote_transfer(labels, transfers):
+    fig = go.Figure(data=[go.Sankey(
+        node=dict(
+            pad=15,
+            thickness=20,
+            line=dict(color="black", width=0.5),
+            label=labels,
+            color="blue"
+        ),
+        link=transfers)])
+    fig.update_layout(title_text="Basic Sankey Diagram", font_size=10)
+    fig.show()
