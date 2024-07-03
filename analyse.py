@@ -2,6 +2,8 @@ from elections import *
 import json
 from math import ceil
 import matplotlib.pyplot as plt
+from plotly.subplots import make_subplots
+import plotly.graph_objects as go
 
 results_first_round = json.load(
     open('data/resultat_elections.json', encoding='utf-8'))
@@ -11,10 +13,15 @@ candidate_details = json.load(
     open('data/candidates_details.json', encoding='utf-8'))
 parse_candidates_details(candidate_details, circos)
 
-labels, transfers = S2.generate_transfer_matrix(
-    transferring_parties=[NFP, CEN],
-    duels=[[CEN, ED], [NFP, ED]])
-plot_vote_transfer(labels, transfers)
+# labels, transfers = S2.generate_transfer_matrix(
+#     transferring_parties=[CEN],
+#     duels=[[NFP, ED]])
+# plot_vote_transfer(labels, transfers)
+
+# labels, transfers = S2.generate_transfer_matrix(
+#     transferring_parties=[LR],
+#     duels=[[NFP, ED]])
+# plot_vote_transfer(labels, transfers)
 
 # # Pas de désistement, ni de report de voies
 # circo_no_transfer = projection(circos, False)

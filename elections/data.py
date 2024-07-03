@@ -1,10 +1,7 @@
 import numpy as np
 from .party import Party, Coalition
 from .vote_transfer import PartyVoteTransfer, VoteTransferModel, VoteTransferCase
-
-
-def rgb(r, g, b):
-    return (r / 255, g / 255, b / 255)
+from .utils import rgb
 
 
 # NFP Parties
@@ -134,7 +131,7 @@ S5_NFP = PartyVoteTransfer(NFP, base_abstention_rate=0.5)
 S5_NFP.add_case(VoteTransferCase({NFP: 1.0}))
 S5_NFP.add_case(VoteTransferCase({ED: 0.3, CEN: 0.4}))
 S5_NFP.add_case(VoteTransferCase({LR: 0.0, CEN: 0.3}))
-S5_NFP.add_case(VoteTransferCase({ED: 0.05, LR: 0.15}))
+S5_NFP.add_case(VoteTransferCase({ED: 0.3, LR: 0.15}))
 S5 = VoteTransferModel([S5_ED, S5_LR, S5_CEN, S5_NFP])
 
 # scénario ''optimiste''

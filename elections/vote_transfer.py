@@ -3,6 +3,7 @@ from typing import List, Dict
 import plotly.graph_objects as go
 from .party import Party
 from .vote import Votes, Candidate
+from .utils import rgb
 
 
 class VoteTransferCase:
@@ -86,14 +87,12 @@ class VoteTransferModel:
         return votes
 
     def generate_transfer_matrix(self, transferring_parties: List[Party], duels: List[List[Party]]):
-        input_labels = [party.name for party in transferring_parties]
-
         output_parties = list(set([party for duel in duels for party in duel]))
-        output_labels = [
-            party.name for party in output_parties] + ['Abstention']
 
-        all_labels = input_labels + output_labels
-        abstention_index = len(all_labels) - 1
+        abstention_party = Party('Abstention', 'ABS', 0, rgb(100, 100, 100))
+        all_parties = transferring_parties + \
+            output_parties + [abstention_party]
+        abstention_index = len(all_parties) - 1
 
         transferred_votes = {
             party: {} for party in transferring_parties
@@ -141,6 +140,8 @@ class VoteTransferModel:
         source = []
         target = []
         value = []
+        colors = []
+        transfer_labels = []
 
         for party, votes in averaged_transferred_votes.items():
             if duels_per_party[party] == 0:
@@ -148,34 +149,47 @@ class VoteTransferModel:
 
             for target_party, vote in votes.items():
                 if vote > 0:
-                    source.append(input_labels.index(party.name))
-                    target.append(len(input_labels) +
-                                  output_labels.index(target_party.name))
+                    source.append(transferring_parties.index(party))
+                    target.append(len(transferring_parties) +
+                                  output_parties.index(target_party))
                     value.append(vote)
 
+                    r, g, b = (col * 128 + 128 for col in target_party.color)
+                    colors.append(
+                        f'rgb({r}, {g}, {b})')
+                    transfer_labels.append(
+                        f'{vote * 100.0:.0f}%')
+
             if abstention_per_party[party] > 0:
-                source.append(input_labels.index(party.name))
+                source.append(transferring_parties.index(party))
                 target.append(abstention_index)
                 value.append(abstention_per_party[party])
+
+                r, g, b = (col * 128 + 128 for col in abstention_party.color)
+                colors.append(
+                    f'rgb({r}, {g}, {b})')
+                transfer_labels.append(
+                        f'{abstention_per_party[party] * 100.0:.0f}%')
 
         transfers = {
             'source': source,
             'target': target,
-            'value': value
+            'value': value,
+            'color': colors,
+            'label': transfer_labels,
         }
 
-        return all_labels, transfers
+        return all_parties, transfers
 
 
-def plot_vote_transfer(labels, transfers):
-    fig = go.Figure(data=[go.Sankey(
+def plot_vote_transfer(parties: List[Party], transfers: Dict):
+    return go.Sankey(
         node=dict(
             pad=15,
             thickness=20,
-            line=dict(color="black", width=0.5),
-            label=labels,
-            color="blue"
+            label=[party.abrev for party in parties],
+            color=[
+                f'rgb({party.color[0] * 255}, {party.color[1] * 255}, {party.color[2] * 255})' for party in parties],
+            line=dict(color="black", width=0.0)
         ),
-        link=transfers)])
-    fig.update_layout(title_text="Basic Sankey Diagram", font_size=10)
-    fig.show()
+        link=transfers)
