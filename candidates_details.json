@@ -1,0 +1,5590 @@
+{
+    "Christophe Maître": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Xavier Breton": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Sébastien Gueraud": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Andréa Kotarac": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Romain Daubié": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Maxime Meyer": {
+        "parti": "EELV-NFP",
+        "desist": true
+    },
+    "Olga Givernet": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Karine Dubarry": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Christian Jolie": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Jérôme Buisson": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Christophe Coquelet": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Charline Liotier": {
+        "parti": "EELV-NFP",
+        "desist": true
+    },
+    "Nicolas Ray": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Rémy Queney": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Aline Jeudi": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Christian Girard": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Felix Blanc": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Benoit Gauvan": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Sophie Vaginay": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Léo Walter": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Dominique Blanc": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Jérôme Sainte-Marie": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Marie-José Allemand": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Pascale Boyer": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Louis Albrand": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Valérie Rossi": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Sébastien Fine": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Bernard Chaix": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Laure Quignard": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Philippe Pradal": {
+        "parti": "Hor.-Ensemble",
+        "desist": true
+    },
+    "Frédéric Falcon": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Viviane Thivent": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Christine Breyton": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Stéphane Mazars": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Jean-Philippe Chartier": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Léon Thebault": {
+        "parti": "EELV-NFP",
+        "desist": true
+    },
+    "Marie-Christine Parolin": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Laurent Alexandre": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Samuel Deguara": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Pierre-Antoine Fevre": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Jean-François Rousset": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Richard Bouigue": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Monique Griseti": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Pascaline Lécorché": {
+        "parti": "div. g.-NFP",
+        "desist": false
+    },
+    "Sabrina Agresti-Roubache": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "José Gonzalez": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Véronique Bourcet-Giner": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Jimmy Bessaih": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Hervé Fabre-Aubrespy": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Marc Pena": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Mohamed Laqhila": {
+        "parti": "MoDem-Ensemble",
+        "desist": true
+    },
+    "Olivier Rioult": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Laurent Lhardit": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Claire Pitollat": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Franck Liquori": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Hendrik Davi": {
+        "parti": "div. g.",
+        "desist": false
+    },
+    "Allan Popelard": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Olivier Fayssat": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Christine Juste": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Lionel Royer-Perreaut": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Romain Tonussi": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Jean-Marc Zulesi": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Alexandre Beddock": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Joël Bruneau": {
+        "parti": "div. dr.",
+        "desist": false
+    },
+    "Emma Fourreau": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Ludivine Daoudi": {
+        "parti": "RN",
+        "desist": true
+    },
+    "Chantal Henry": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Christophe Blanchet": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Pierre Mouraret": {
+        "parti": "PCF-NFP",
+        "desist": true
+    },
+    "Philippe Chapron": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Bertrand Bouyx": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Thomas Dupont-Federici": {
+        "parti": "Gen.-NFP",
+        "desist": true
+    },
+    "Nicolas Calbrix": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Elisabeth Borne": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Noé Gauchard": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Vincent Descoeur": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Dorothée Gallais": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Valérie Rueda": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Barthélemy Martin": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Sandra Marsaud": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Carole Ballu": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Caroline Colombier": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Virginie Lebraud": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Gwenhaël François": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Olivier Falorni": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Jean-Marc Soubeste": {
+        "parti": "EELV-NFP",
+        "desist": true
+    },
+    "Emma Chauveau": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Karen Bertholom": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Benoît Biteau": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Anne-Laure Babault": {
+        "parti": "MoDem-Ensemble",
+        "desist": true
+    },
+    "Stéphane Morin": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Fabrice Barusseau": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Jean-Philippe Ardouin": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Aymeric Mongelous": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Christophe Plassard": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Anne Brachet": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Ugo Iannuzzi": {
+        "parti": "RN",
+        "desist": false
+    },
+    "François Cormier-Bouligeon": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Hugo Lefelle": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Bastian Duenas": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Nicolas Sansu": {
+        "parti": "PCF-NFP",
+        "desist": false
+    },
+    "Gabriel Behaghel": {
+        "parti": "MoDem-Ensemble",
+        "desist": true
+    },
+    "Valéry Elophe": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Frédérique Meunier": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Amandine Dewaele": {
+        "parti": "EELV-NFP",
+        "desist": true
+    },
+    "Tatiana Guyenot": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Catherine Hervieu": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Benoît Bordat": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Thierry Coudert": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Pierre Pribetich": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Fadila Khattabi": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Sophie Dumont": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Hubert Brigand": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Valérie Jacq": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "René Lioret": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Didier Paris": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Jérôme Flache": {
+        "parti": "PCF-NFP",
+        "desist": true
+    },
+    "Hervé Berville": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Antoine Kieffer": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Jérémy Dauphin": {
+        "parti": "EELV-NFP",
+        "desist": true
+    },
+    "Corentin Le Fur": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Odile de Mellon": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Antoine Ravard": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Noël Lude": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Murielle Lepvraud": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Cyril Jobic": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Nadine Lechon": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Pascale Martin": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Clément Tonon": {
+        "parti": "Hor.-Ensemble",
+        "desist": true
+    },
+    "Serge Muller": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Christophe Cathus": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Michel Delpon": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Florence Joubert": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Christelle Druillole": {
+        "parti": "PS",
+        "desist": false
+    },
+    "Jean-Pierre Cubertafon": {
+        "parti": "MoDem-Ensemble",
+        "desist": true
+    },
+    "Dominique Voynet": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Eric Fusis": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Benoît Vuillemin": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Matthieu Bloch": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Nicolas Pacquot": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Virginie Dayet": {
+        "parti": "PCF-NFP",
+        "desist": true
+    },
+    "Géraldine Grangier": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Magali Duvernois": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Philippe Gautier": {
+        "parti": "Hor.-Ensemble",
+        "desist": true
+    },
+    "Lisette Pollet": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Karim Chkeri": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Nicolas Michel": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Marie Pochon": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Adhémar Autrand": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Lander Marchionni": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Christine Loir": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Julien Canin": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Christine Le Bonté": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Timothée Houssin": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Frédéric Duché": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Pierre-Yves Jourdain": {
+        "parti": "EELV-NFP",
+        "desist": true
+    },
+    "Emma Minot": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Guillaume Kasbarian": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Jean-François Bridet": {
+        "parti": "EELV-NFP",
+        "desist": true
+    },
+    "Olivier Dubois": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Olivier Marleix": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Nadia Faveris": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Didier Le Gac": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Martine Donval": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Pierre Smolarz": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Graziella Melchior": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Gladys Grelaud": {
+        "parti": "PCF-NFP",
+        "desist": true
+    },
+    "Renée Thomaïdis": {
+        "parti": "PCF-NFP",
+        "desist": false
+    },
+    "Mélanie Thomin": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Patrick Le Fur": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Erwan Crouan": {
+        "parti": "div. c.-Ensemble",
+        "desist": true
+    },
+    "Christian Perez": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Erwan Balanant": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Sébastien Miossec": {
+        "parti": "PS diss.",
+        "desist": true
+    },
+    "Thomas Le Bon": {
+        "parti": "PS diss.",
+        "desist": true
+    },
+    "François-Xavier Ceccoli": {
+        "parti": "div. dr.",
+        "desist": false
+    },
+    "Jean-Félix Acquaviva": {
+        "parti": "Femu",
+        "desist": false
+    },
+    "Sylvie Jouart": {
+        "parti": "RN",
+        "desist": true
+    },
+    "Yoann Gillet": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Charles Menard": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Valérie Rouverand": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Pascale Bordes": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Sabine Oromi": {
+        "parti": "PCF-NFP",
+        "desist": false
+    },
+    "Christian Baume": {
+        "parti": "Hor.-Ensemble",
+        "desist": true
+    },
+    "Sylvie Josserand": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Nicolas Cadène": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Aurélien Colson": {
+        "parti": "MoDem-Ensemble",
+        "desist": true
+    },
+    "Jacques Oberti": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Caroline Falgas-Colomina": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Dominique Faure": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Julien Leonardelli": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Jean-François Portarrieu": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Sylvie Espagnolle": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Arnaud Simion": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Nadine Demange-Fierlej": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Monique Iborra": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Gaëtan Inard": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Christophe Bex": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Elisabeth Toutut-Picard": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Jean-Luc Yelma": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Jean-René Cazeneuve": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Pascal Levieux": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Sandrine Chadourne": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Florent Boudié": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Pascal Bourgois": {
+        "parti": "EELV-NFP",
+        "desist": true
+    },
+    "Rémy Berthonneau": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Mathilde Feld": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Pascal Lavergne": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Grégoire de Fournas": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Pascale Got": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Stéphane Sence": {
+        "parti": "Hor.-Ensemble",
+        "desist": true
+    },
+    "Laurent Lamara": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Sophie Panonacle": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Marylène Faure": {
+        "parti": "PCF-NFP",
+        "desist": true
+    },
+    "François-Xavier Marques": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Sophie Mette": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Corinne Martinez": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Josyan Oliva": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Jean-Louis Roumegas": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Patricia Miralles": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Fanny Dombre-Coste": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Lauriane Troise": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Laurence Cristol": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Manon Bouquin": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Sébastien Rome": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Jean-François Eliaou": {
+        "parti": "Hor.-Ensemble",
+        "desist": true
+    },
+    "Charles Alloncle": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Nadia Belaouni": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Patrick Vignal": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Jacques François": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Mathilde Hignet": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Anne Patault": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Christine Le Nabour": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Françoise Gilois": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Gilles Renault": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Thierry Benoit": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Tangi Marion": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Elsa Lafaye": {
+        "parti": "PCF-NFP",
+        "desist": true
+    },
+    "Jean-Luc Bourgeaux": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Dylan Lemoine": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Nicolas Guivarc'h": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Mylène Wunsch": {
+        "parti": "RN",
+        "desist": false
+    },
+    "François Jolivet": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Eloïse Gonzalez": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Marc Siffert": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Nicolas Forissier": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Clément Sapin": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Corine Fougeron": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Daniel Labaronne": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Christelle Gobert": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Henri Alfandari": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Jules Robin": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Sandra Barbier": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Jean-François Bellanger": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Laurent Baumel": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Fabienne Colboc": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "François Ducamp": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Sabine Thillaye": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Marina Coccia": {
+        "parti": "PCF-NFP",
+        "desist": true
+    },
+    "Thierry Perez": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Joëlle Richol": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Marjolaine Meynier-Millefert": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Cyrielle Chatelain": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Edouard Robert": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Louve Carrière": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Élisa Martin": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Christel Dupré": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Émilie Chalas": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Jérémie Iordanoff": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Frédérique Schreiber": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Jean-Charles Colas-Roy": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Benoît Auguste": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Yannick Neuder": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Dominique Dichard": {
+        "parti": "PCF-NFP",
+        "desist": true
+    },
+    "Hanane Mansouri": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Cécile Michel": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Caroline Abadie": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Cécile Bene": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Sandrine Nosbé": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Élodie Jacquier-Laforge": {
+        "parti": "MoDem-Ensemble",
+        "desist": true
+    },
+    "Valérie Graby": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Danielle Brulebois": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Anthony Brondel": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Marie-Christine Dalloz": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Thierry Mosca": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Evelyne Ternant": {
+        "parti": "PCF-NFP",
+        "desist": true
+    },
+    "Aurore Vuillemin-Plancon": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Justine Gruet": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Hervé Prat": {
+        "parti": "EELV-NFP",
+        "desist": true
+    },
+    "Veronique Fossey": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Geneviève Darrieussecq": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Marie-Laure Lafargue": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Ludovic Biesbrouck": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Lionel Causse": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Jean-Marc Lespade": {
+        "parti": "PCF-NFP",
+        "desist": true
+    },
+    "Virginia de Oliveira": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Christophe Marion": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Noé Petit": {
+        "parti": "EELV-NFP",
+        "desist": true
+    },
+    "Pierrick Courbon": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Marie Simon": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Quentin Bataillon": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Angelina La Marca": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Emmanuel Mandon": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Vincent Bony": {
+        "parti": "PCF-NFP",
+        "desist": true
+    },
+    "Gerbert Rambaud": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Sylvie Bonnet": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Bernard Paemelaere": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Laurent Wauquiez": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Alexandre Heuzey": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Celline Gacon": {
+        "parti": "EELV-NFP",
+        "desist": true
+    },
+    "Jean-Pierre Vigier": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Suzanne Maryse Denise Fourets": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Andre Antoine Célestin Chapaveire": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Sandrine Josso": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Michel Hunault": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Véronique Mahé": {
+        "parti": "PCF-NFP",
+        "desist": true
+    },
+    "Matthias Tavel": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Gauthier Bouchet": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Audrey Dufeu": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Jean-Michel Brard": {
+        "parti": "div. d.-Ensemble",
+        "desist": false
+    },
+    "Bastian Maldiney": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Hélène Macon": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Stéphanie Rist": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Ghislaine Kounowski": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Tiffanie Rabault": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Elodie Babin": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Emmanuel Duplessy": {
+        "parti": "Gen.-NFP",
+        "desist": false
+    },
+    "Caroline Janvier": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Mathilde Paris": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Constance de Pélichy": {
+        "parti": "div. dr.",
+        "desist": false
+    },
+    "Clément Verde": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Jean-Lin Lacapelle": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Anthony Brosse": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Anne-Laure Boutet": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Anthony Zeller": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Richard Ramos": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Christophe Lavialle": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Sébastien Delbosq": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Michel Lauzzana": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Paul Vo Van": {
+        "parti": "EELV-NFP",
+        "desist": true
+    },
+    "Hélène Laporte": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Christophe Courregelongue": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Jean-Marie Lenzi": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Edouard Bourgeault": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Anne-Laure Blin": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Patrick Alexandre": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Aurore Lahondès": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Laëtitia Saint-Paul": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Charlyne Bouvet": {
+        "parti": "PCF-NFP",
+        "desist": true
+    },
+    "Nicole Dubre Chirat": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Tim Pavageau": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Sylvie Gabin": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Pierre Giry": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Stéphane Travert": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Gaëlle Verove": {
+        "parti": "PCF-NFP",
+        "desist": true
+    },
+    "Adrien Mexis": {
+        "parti": "extr. dr.",
+        "desist": false
+    },
+    "Xavier Albertini": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Evelyne Bourgoin": {
+        "parti": "EELV-NFP",
+        "desist": true
+    },
+    "Anne-Sophie Frigout": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Laure Miller": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Stéphane Pirouelle": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Christophe Bentz": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Bérangère Abba": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Benjamin Lambert": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Guillaume Garot": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Paule Veyre de Soras": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Vincent Saulnier": {
+        "parti": "UDI-Ensemble",
+        "desist": true
+    },
+    "Géraldine Bannier": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Jean-Michel Cadenas": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Grégory Boisseau": {
+        "parti": "EELV-NFP",
+        "desist": true
+    },
+    "Yannick Favennec": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Annie Bell": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Stéphanie Lefoulon": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Estelle Mercier": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Patricia Melet": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Philippe Guillemard": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Dominique Bilde": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Thibault Bazin": {
+        "parti": "div. dr.",
+        "desist": false
+    },
+    "Barbara Bertozzi-Biévelot": {
+        "parti": "EELV-NFP",
+        "desist": true
+    },
+    "Anne Le Hénanff": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Anne Gallo": {
+        "parti": "div. g.-NFP",
+        "desist": true
+    },
+    "Joseph Martin": {
+        "parti": "div. g.-NFP",
+        "desist": false
+    },
+    "Jimmy Pahun": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Florent de Kersauson": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Jade Beniguel": {
+        "parti": "écol.-NFP",
+        "desist": true
+    },
+    "Antoine Oliviero": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Nicole Le Peih": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Marie Madeleine Doré-Lucas": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Nathalie Guihot-Vieira": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Jean-Michel Jacques": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Jean-Michel Baudry": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Grégoire Laloux": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Belkhir Belhaddad": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Vincent Felix": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Marie-Claude Voincon": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Ludovic Mendes": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Victorien Nicolas": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Victor Chomard": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Nathalie Colin-Oesterlé": {
+        "parti": "LC",
+        "desist": false
+    },
+    "Charlotte Leduc": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Baptiste Philippo": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Isabelle Rauch": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Brigitte Vaîsse": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Charles-Henri Gallois": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Perrine Goulet": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Brice Larèpe": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Julien Guibert": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Christian Paul": {
+        "parti": "PS",
+        "desist": false
+    },
+    "Sandra Germain": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Gérald Darmanin": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Bastien Verbrugghe": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Leslie Mortreux": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Roger Vicot": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Maxime Moulin": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Ingrid Brulant-Fortin": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Maxence Accart": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Julien Gokel": {
+        "parti": "PS diss.",
+        "desist": false
+    },
+    "Damien Lacroix": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Laurence Bara": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Valérie Létard": {
+        "parti": "UDI-Ensemble",
+        "desist": false
+    },
+    "Pierrick Colpin": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Victor Catteau": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Sébastien Huyghe": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Ophélie Delneste": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Charlotte Parmentier-Lecocq": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Marie Hélène Quatreboeufs": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Célia Pereira": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Michel Guiniot": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Daniel Leca": {
+        "parti": "UDI-Ensemble",
+        "desist": false
+    },
+    "Baptiste de Fresse De Monval": {
+        "parti": "EELV-NFP",
+        "desist": true
+    },
+    "Nadine Belzidsky": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Chantal Jourdan": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Patricia Chapelotte": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Jérôme Nury": {
+        "parti": "div. dr.",
+        "desist": false
+    },
+    "Ludmila Petchenina": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Lori Helloco": {
+        "parti": "div. g.-NFP",
+        "desist": true
+    },
+    "Alban Heusèle": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Agnès Pannier-Runacher": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Alexandre Cousin": {
+        "parti": "EELV-NFP",
+        "desist": true
+    },
+    "Antoine Golliot": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Olivier Barbarin": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Jean-Pierre Pont": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Benjamin Chalus": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Delphine Lingemann": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Valérie Goléo": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "François Verriere": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Josy Poueyto": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Jean-Yves Lalanne": {
+        "parti": "div. g.",
+        "desist": true
+    },
+    "Monique Becker": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Jean-Paul Matteï": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Julien Brunel": {
+        "parti": "EELV-NFP",
+        "desist": true
+    },
+    "Colette Capdevielle": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Serge Rosso": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Florence Lasserre": {
+        "parti": "MoDem-Ensemble",
+        "desist": true
+    },
+    "Marie-Christine Sorin": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Sylvie Ferrer": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Jean-Bernard Sempastous": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Olivier Monteil": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Denis Fégné": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Benoit Mournet": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Sandrine Dogor-Such": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Nathalie Cullell": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Laurence Gayte": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Delphine Daubenberger": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Françoise Buffet": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Raphaële Krattinger": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Olivier Becht": {
+        "parti": "Agir-Ensemble",
+        "desist": false
+    },
+    "Pierre Pinto": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Nadia El Hajjaji": {
+        "parti": "Gen.-NFP",
+        "desist": true
+    },
+    "Christelle Ritz": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Bruno Fuchs": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Florence Claudepierre": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Thomas Gassilloud": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Cecile Patout": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Florence Janine Jacqueline Perrin": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Alexandre Humbert Dupalais": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Jean-Luc Fugit": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Abdel Yousfi": {
+        "parti": "PCF-NFP",
+        "desist": true
+    },
+    "Tiffany Joncour": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Victor Prandt": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Sarah Tanzilli": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Jonathan Gery": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Anne Reymbaut": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Dominique Despras": {
+        "parti": "MoDem-Ensemble",
+        "desist": true
+    },
+    "Nathalie Serre": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Patrick Louis": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Alexandre Portier": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Jean-Henri Soumireu-Lartigue": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Rachel Drevet": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Benjamin Dirx": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Jean-Luc Delpeuch": {
+        "parti": "EELV-NFP",
+        "desist": true
+    },
+    "Aurélien Dutremble": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Rémy Rebeyrotte": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Richard Beninger": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Eric Michoux": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Cécile Untermaier": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Anthony Vadot": {
+        "parti": "LR",
+        "desist": true
+    },
+    "Arnaud Sanvert": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Fatima Kouriche": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Louis Margueritte": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Gilles Platret": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Céline de Cossé Brissac": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Julie Delpech": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Ghislaine Bonnet": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Marietta Karamanli": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "François Fevre": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Samuel Chevallier": {
+        "parti": "UDI-Ensemble",
+        "desist": true
+    },
+    "Marie-Caroline Le Pen": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Elise Leboucher": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Sylvie Casenave-Péré": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Pierre Vaugarny": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Jean-Carles Grelier": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Christophe Rouillon": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Typhanie Degois": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Marina Ferrari": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Christel Granata": {
+        "parti": "PCF-NFP",
+        "desist": true
+    },
+    "Vincent Rolland": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Pauline Ract-Brancaz": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Pascale Martinot": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Jean-François Coulomme": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Brice Bernard": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Anaïs Gomero": {
+        "parti": "MoDem-Ensemble",
+        "desist": true
+    },
+    "Véronique Riotton": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Guillaume Roit-Levêque": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Anne-Valérie Duval": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Antoine Armand": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Anis Bouvard": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Guillaume Tatu": {
+        "parti": "EELV-NFP",
+        "desist": true
+    },
+    "Antoine Valentin": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Christelle Petex": {
+        "parti": "div. dr.",
+        "desist": false
+    },
+    "Gérard Vez": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Virginie Duby-Muller": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Magalie Luho": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Dominique Lachenal": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Quentin Taïeb": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Anne-Cécile Violland": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Jean-Baptiste Baud": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Charles Prats": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Xavier Roseren": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Alain Roubian": {
+        "parti": "div. g.-NFP",
+        "desist": true
+    },
+    "Marine Rosset": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Jean Laussucq": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Gilles Le Gendre": {
+        "parti": "Ren. diss.",
+        "desist": true
+    },
+    "Astrid Panosyan-Bouvet": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Geoffroy Boulard": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Théa Fourdrinier": {
+        "parti": "div. g.-NFP",
+        "desist": true
+    },
+    "Vanessa Lancelot": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Annie Vidal": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Vincent Decorde": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Guillaume Pennelle": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Alma Dufour": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Laurent Bonnaterre": {
+        "parti": "Hor.-Ensemble",
+        "desist": true
+    },
+    "Jean-Cyril Montier": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Gérard Leseul": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Jean Delalandre": {
+        "parti": "Hor.-Ensemble",
+        "desist": true
+    },
+    "Agnès Firmin Le Bodo": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Anaïs Thomas": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Florence Martin Péréon": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Ivanka Dimitrova": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Frédéric Valletoux": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Nour Benaïssa Watbot": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Davy Brun": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Jean-Louis Thieriot": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Laura Vallée-Hans": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Julien Limongi": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Isabelle Perigault": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Mathieu Garnier": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Philippe Fontana": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Franck Riester": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Laurie Caenbergs": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Béatrice Roullaud": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Amal Bentounsi": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Régis Sarazin": {
+        "parti": "LR",
+        "desist": true
+    },
+    "Morgann Vanacker": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Céline Thiébault-Martinez": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Michèle Peyron": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Béatrice Piron": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Valentin Salvino": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Thomas Ciano": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Laurent Morin": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Dieynaba Diop": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Bruno Millienne": {
+        "parti": "MoDem-Ensemble",
+        "desist": true
+    },
+    "Nathalie Ribeiro Billet": {
+        "parti": "RN",
+        "desist": false
+    },
+    "François Ruffin": {
+        "parti": "div. g.-NFP",
+        "desist": false
+    },
+    "Albane Branlant": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Frédéric Cabrolier": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Philippe Bonnecarrere": {
+        "parti": "div. c.-Ensemble",
+        "desist": false
+    },
+    "Margot Lapeyre": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Julien Bacou": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Karen Erodi": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Pierre Verdier": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Guilhem Carayon": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Jean Terlier": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Julien Lassalle": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Sébastien Soulé": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Yannick Chenevard": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Eric Habouzit": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Bénédicte Auzanot": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Patrick Blanes": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Sylvie Viala": {
+        "parti": "MoDem-Ensemble",
+        "desist": true
+    },
+    "Catherine Rimbert": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Céline Celce": {
+        "parti": "Gen.-NFP",
+        "desist": false
+    },
+    "Adrien Morenas": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Simon-Pierre Paulin": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Philippe Latombe": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Lucie Etonno": {
+        "parti": "EELV-NFP",
+        "desist": true
+    },
+    "Béatrice Bellamy": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Marie-Christine Ebran": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Nicolas Helary": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Stéphane Buffetaut": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Pierre Henriet": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Pierre-Hugues Fourage": {
+        "parti": "div. g.-NFP",
+        "desist": true
+    },
+    "Eric Soulat": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Pascal Lecamp": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Gisèle Jean": {
+        "parti": "div. g.-NFP",
+        "desist": true
+    },
+    "Hager Jacquemin": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Nicolas Turquois": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Yves Trousselle": {
+        "parti": "div. g.-NFP",
+        "desist": true
+    },
+    "Sabrina Minguet": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Stéphane Delautrette": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Marie-Eve Tayot": {
+        "parti": "div. c.",
+        "desist": true
+    },
+    "Sophie-Laurence Roy": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "André Villiers": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Philippe Veyssiere": {
+        "parti": "LFI-NFP",
+        "desist": true
+    },
+    "Carine Manck": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Ian Boucard": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Marie-Eve Belorgey": {
+        "parti": "PS-NFP",
+        "desist": true
+    },
+    "Nathalie Da Conceicao Carvalho": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Mathieu Hillaire": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Naïma Sifer": {
+        "parti": "Hor.-Ensemble",
+        "desist": true
+    },
+    "Stefan Milosevic": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Steevy Gustave": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Alexis Izard": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Marie-Pierre Rixain": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Jérôme Carbriand": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Amadou Deme": {
+        "parti": "PCF-NFP",
+        "desist": true
+    },
+    "Jérôme Guedj": {
+        "parti": "PS",
+        "desist": false
+    },
+    "Hella Kribi-Romdhane": {
+        "parti": "Gen.-NFP",
+        "desist": true
+    },
+    "Natacha Goupy": {
+        "parti": "Gen.-NFP",
+        "desist": false
+    },
+    "Julie Ozenne": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Paul-Henri Merrien": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Marie Guévenoux": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Aly Diouara": {
+        "parti": "div. g.-NFP",
+        "desist": false
+    },
+    "Aude Lagarde": {
+        "parti": "UDI",
+        "desist": false
+    },
+    "Raquel Garrido": {
+        "parti": "LFI diss.",
+        "desist": true
+    },
+    "Lyes Louffok": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Sylvain Berrios": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Frédéric Descrozaille": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Anne-Gaëlle Sabourin": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Ayda Hadizadeh": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Nadejda Remy": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Guillaume Vuilletet": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Emmanuel Maurel": {
+        "parti": "div. g.-NFP",
+        "desist": false
+    },
+    "Kimberley Lelaidier": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Cécile Rilhac": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Karine Lacouture": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Naïma Moutchou": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Sébastien Meurant": {
+        "parti": "LR-RN",
+        "desist": true
+    },
+    "Romain Eskenazi": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "David Quentin": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Dominique Da Silva": {
+        "parti": "Ren.-Ensemble",
+        "desist": true
+    },
+    "Davy Rimane": {
+        "parti": "div. g.",
+        "desist": false
+    },
+    "Sophie Charles": {
+        "parti": "div.",
+        "desist": true
+    },
+    "Marc Chavent": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Florence Pisani": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Nicolas Dragon": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Elu au premier tour": {
+        "parti": "div. c.",
+        "desist": false
+    },
+    "Philippe Torre": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Julien Dive": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Eddy Casterman": {
+        "parti": "RN",
+        "desist": false
+    },
+    "José Beaurain": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Jocelyn Dessigny": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Anne-Marie Thès": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Yannick Monnet": {
+        "parti": "PCF-NFP",
+        "desist": false
+    },
+    "Jorys Bovet": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Louise Heritier": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Romain Lefebvre": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Eric Ciotti": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Olivier Salerno": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Graig Monetti": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Lionel Tivoli": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Leïla Tonnerre": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Alexandra Masson": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Elue au premier tour": {
+        "parti": "div. c.",
+        "desist": false
+    },
+    "Christelle D'intorni": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Bryan Masson": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Thierry Ferrand": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Eric Pauget": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Dorette Landerer": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Alexandra Martin": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Franck Galbert": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Michèle Tabarot": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Céline Porquet": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Hervé Saulignac": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Vincent Trebuchet": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Michèle Victory": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Cyrille Grangier": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Florence Pallot": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Fabrice Brun": {
+        "parti": "div. dr.",
+        "desist": false
+    },
+    "Flavien Termet": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Lionel Vuibert": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Pauline Mester": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Pierre Cordier": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Jean-Luc Warsmann": {
+        "parti": "div. dr.",
+        "desist": false
+    },
+    "Isabelle Roger": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Martine Froger": {
+        "parti": "PS diss.",
+        "desist": false
+    },
+    "Laurent Panifous": {
+        "parti": "PS diss.",
+        "desist": false
+    },
+    "Michèle Alozy": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Jordan Guitton": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Albéric Ferrand": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Valérie Bazin-Malgras": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Angélique Ranc": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Olivier Girardin": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Christophe Barthès": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Philippe Poutou": {
+        "parti": "NPA-NFP",
+        "desist": false
+    },
+    "Julien Rancoule": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Philippe Andrieu": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Franck Allisio": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Emmanuel Fouquart": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Pierre Dharréville": {
+        "parti": "PCF-NFP",
+        "desist": false
+    },
+    "Gérault Verny": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Jean-David Ciot": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Anne-Laurence Petel": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Romain Baubry": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Wassila Aïdarous": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Emmanuel Tache de la Pagerie": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Nicolas Koukas": {
+        "parti": "PCF-NFP",
+        "desist": false
+    },
+    "Gisèle Lelouis": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Amine Kessaci": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Manuel Bompard": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Sébastien Delogu": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Joëlle Mélin": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Bernard Ougourlou-Oglou": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Arthur Delaporte": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Josseline Liban": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Edouard Fauvage": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Jérémie Patrier-Leitus": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Jean Yves Bony": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Gilles Lacroix": {
+        "parti": "RN",
+        "desist": false
+    },
+    "René Pilato": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Thomas Mesnier": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Marion Latus": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Pascal Markowsky": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Raphaël Gerard": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Pierre Gentillet": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Loïc Kervran": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "François Hollande": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Maïtey Pouget": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Francis Dubois": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Océane Godard": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Didier Martin": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Cyline Humblot-Cornille": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Mickaël Cosson": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Marion Gorgiard": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Françoise Billaud": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Eric Bothorel": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Marielle Lemaitre": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Jean-Yves Le Boulanger": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Bartolomé Lenoir": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Catherine Couturier": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Valérie Simonet": {
+        "parti": "div. dr.",
+        "desist": false
+    },
+    "Dominique-Louise Marchaudon": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Sébastien Peytavie": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Laurent Croizier": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Séverine Vezies": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Thomas Lutz": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Annie Genevard": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Florianne Jeandenand": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Paul Christophle": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Jean-Paul Vallon": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Thibaut Monnier": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Isabelle Pagani": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Emmanuelle Anthoine": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Katiana Levavasseur": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Timour Veyri": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Kévin Mauvieux": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Marie Tamarelle Verhaeghe": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Patrice Pauper": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Philippe Brun": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Christophe Bay": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Harold Huwart": {
+        "parti": "PRV-Ensemble",
+        "desist": false
+    },
+    "Roger Pecout": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Philippe Vigier": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Annaïg Le Meur": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Grégory Lebert": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Christel Hénaff": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Pierre-Yves Cadalen": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Denis Kervella": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Jean-Charles Larsonneur": {
+        "parti": "Ren. diss.",
+        "desist": false
+    },
+    "Sylvaine Vulpiani": {
+        "parti": "Gen.-NFP",
+        "desist": false
+    },
+    "Sandrine Le Feur": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Tony Bihouee": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Jugdeep Harvinder": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Liliana Tanguy": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Annick Alanou": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Ariane Quarena": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Laurent Marcangeli": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "François Filoni": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Paul-André Colombani": {
+        "parti": "PNC",
+        "desist": false
+    },
+    "Michel Castellani": {
+        "parti": "Femu",
+        "desist": false
+    },
+    "Jean-Michel Marchal": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Nicolas Meizonnet": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Pierre Meurin": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Arnaud Bord": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Alexandre Allegret-Pilot": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Michel Sala": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Hadrien Clouet": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Elodie Hobet": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Lola Chambelin": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Anne Stambach-Terrenoir": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Jean-Luc Lagleize": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Frank Khalifa": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Agathe Roby": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Corinne Vignon": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Stéphanie Alarcon": {
+        "parti": "RN",
+        "desist": false
+    },
+    "François Piquemal": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Loïc Delchard": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Joël Aviragnet": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Christine Arrighi": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Caroline Beout": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Florian Delrieu": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "David Taupiac": {
+        "parti": "PS",
+        "desist": false
+    },
+    "Alice Cendré": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Thomas Cazenave": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Céline Papin": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Bruno Paluteau": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Edwige Diaz": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Nicolas Thierry": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Véronique Juramy": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Loïc Prud'homme": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Ariane Ary": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Maryvonne Basteres": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Alain David": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Julie Rechagneux": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Marie Recalde": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Eric Poulliat": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Jimmy Bourlieux": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Sébastien Saint-Pasteur": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Bérangère Couillard": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Clémence Naveys--Dumas": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Nathalie Oziol": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Stéphanie Galzy": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Aurélien Manenc": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Julien Gabarron": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Emmanuelle Ménard": {
+        "parti": "extr. dr.",
+        "desist": false
+    },
+    "Magali Crozier": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Aurélien Lopez-Liguori": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Cédric Delapierre": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Sylvain Carriere": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Marie Mesmeur": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Nicolas Boucher": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Jeanne Rey Du Boissieu": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Tristan Lahais": {
+        "parti": "Gen.-NFP",
+        "desist": false
+    },
+    "Laurence Maillart-Méhaignerie": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Bérénice Vanhaecke": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Claudia Rouaux": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Charlotte Faillé": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Virginie D'orsanne": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Mickaël Bouloux": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Charles Fournier": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Benoist Pierre": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Hugo Prevost": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Olivier Véran": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Alexandre Lacroix": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Marie-Noëlle Battistel": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Anne-Marie Malandrino": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Alexis Jolly": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Yaqine Di Spigno": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Boris Vallaud": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Sylvie Franceschini": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Marine Bardet": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Marc Fesneau": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Roger Chudeau": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Nils Aucante": {
+        "parti": "div.",
+        "desist": false
+    },
+    "Andrée Taurinya": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Hervé Breuil": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Eric Le Jaouen": {
+        "parti": "UDI-Ensemble",
+        "desist": false
+    },
+    "Antoine Vermorel-Marques": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Sandrine Granger": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Ismaël Stevenson": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Grégoire Granger": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Jean-Pierre Taite": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Karim Benbrahim": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Mounir Belhamiti": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Bryan Pecqueur": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Sophie Errante": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Maxime Viancin": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Stéphanie Cotrel": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Andy Kerbrat": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Ségolène Amiot": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Matthieu Annereau": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Laurie Arc": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Julie Laernoes": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Aude Amadou": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Gaëlle Pineau": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Fabrice Roussel": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Sarah El Haïry": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Bruno Comby": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Jean-Claude Raux": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Julio Pichon": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Alain Hunault": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Thomas Ménagé": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Bruno Nottin": {
+        "parti": "PCF-NFP",
+        "desist": false
+    },
+    "Aurélien Pradié": {
+        "parti": "div. dr.",
+        "desist": false
+    },
+    "Elsa Bougeard": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Slavka Mihaylova": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Christophe Proença": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Gérard Raymond Blanchet": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Huguette Tiegna": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Annick Cousin": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Guillaume Lepers": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Sophie Pantel": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Luc-Etienne Gousseau": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Pierre Morel A L'huissier": {
+        "parti": "div. dr.",
+        "desist": false
+    },
+    "François Gernigon": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Elsa Richard": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Hugo Louvigne": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Stella Dupont": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Léo Metayer": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Thomas Brisseau": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Denis Masseglia": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Gilles Bourdouleix": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "France Moreau": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Philippe Bolo": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Guillaume Jouanneau": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Clémence Lascaud": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Philippe Gosselin": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Franck Simon": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Bertrand Sorre": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Marie-Françoise Kurdziel": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Anna Pic": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Nicolas Conquer": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Maxime Michelet": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Eric Girardin": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Achille Bisiaux": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Lise Magnier": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Thierry Besson": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Charles de Courson": {
+        "parti": "LC",
+        "desist": false
+    },
+    "Laurence Robert-Dehault": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Stéphane Hablot": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Emmanuel Lacresse": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Geneviève Maillot": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Frédéric Weber": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Martine Etienne": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Dominique Potier": {
+        "parti": "div. g.",
+        "desist": false
+    },
+    "Louis-Joseph Pecher": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Anthony Boulogne": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Caroline Fiat": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Maxime Amblard": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Bertrand Pancher": {
+        "parti": "div. dr.",
+        "desist": false
+    },
+    "Florence Goulet": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Paul Molac": {
+        "parti": "rég.",
+        "desist": false
+    },
+    "Katel Le Cuillier": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Damien Girard": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Lysiane Métayer": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Aurélie Le Goff": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Océane Simon": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Fabien Di Filippo": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Pascal Jenft": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Vincent Seitlinger": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Kévin Pfeffer": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Alexandre Loubet": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Laurent Jacobelli": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Céline Leger": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Aurélien Le Coq": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Carole Leclercq": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Michael Taverne": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Jean-Baptiste Gardes": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Paul Christophe": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Pierrick Berteloot": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Jean-Pierre Bataille": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Matthieu Marchio": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Thierry Tesson": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Frédéric Chéreau": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Alexandre Dufosset": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Sébastien Chenu": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Ugo Bernalicis": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Philippe Guérard": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Violette Salanon": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Guillaume Florquin": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Sandra Delannoy": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Brigitte Liso": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Charlotte Brun": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Anne Morand": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Félicie Gerard": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Karima Chouia": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Céline Sayah": {
+        "parti": "RN",
+        "desist": false
+    },
+    "David Guiraud": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Ethan Leys": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Violette Spillebout": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Odile Vidal-Sagnier": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Christine Landru": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Claire Marais-Beuil": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Victor Habert-Dassault": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Philippe Ballard": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Alexandre Sabatou": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Amadou Ka": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Mathieu Grimpret": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Eric Woerth": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Frédéric Pierre Vos": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Bertrand Brassens": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "David Magnier": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Loïc Pen": {
+        "parti": "PCF-NFP",
+        "desist": false
+    },
+    "Maxime Minot": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Gérard Vienne": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Véronique Louwagie": {
+        "parti": "div. dr.",
+        "desist": false
+    },
+    "Emmanuel Blairy": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Thierry Frappé": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Marine Le Pen": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Bruno Bilde": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Bruno Clavet": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Benoît Dolle": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Philippe Fait": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Christine Engrand": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Marc de Fleurian": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Pierre-Henri Dumont": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Auguste Evrard": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Bertrand Petit": {
+        "parti": "PS diss.",
+        "desist": false
+    },
+    "Caroline Parmentier": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Hadrien Coisne": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Marianne Maximi": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Louis Clément": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Hervé Prononce": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Christine Pirès Beaune": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Isabelle Dupré": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Nicolas Bonnet": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Laurence Vichnievsky": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Nadine Pers": {
+        "parti": "RN",
+        "desist": false
+    },
+    "André Chassaigne": {
+        "parti": "PCF-NFP",
+        "desist": false
+    },
+    "Brigitte Carletto": {
+        "parti": "RN",
+        "desist": false
+    },
+    "David Habib": {
+        "parti": "div. g.",
+        "desist": false
+    },
+    "Nicolas Cresson": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Iñaki Echaniz": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Sylviane Lopez": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Jean Lassalle": {
+        "parti": "div. dr.",
+        "desist": false
+    },
+    "Peio Dufau": {
+        "parti": "reg.-NFP",
+        "desist": false
+    },
+    "Christian Devèze": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Victor Lastécouères": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Sophie Blanc": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Francis Daspe": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Anaïs Sabatini": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Michèle Martinez": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Julien Baraillé": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Sandra Regol": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Etienne Loos": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Emmanuel Fernandes": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Rebecca Breitman": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Virginie Joron": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Thierry Sother": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Bruno Studer": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Stéphanie Dô": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Thomas Esteve": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Charles Sitzenstuhl": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Vincent Coussediere": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Louise Morel": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Denis Kieffer": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Patrick Hetzel": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Théo Bernhardt": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Stéphanie Kochert": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Marc Wolff": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Vincent Thiebaut": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Laurent Gnaedig": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Brigitte Klinkert": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Nathalie Aubert": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Hubert Ott": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Christian Zimmermann": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Didier Lemaire": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Marion Wilhelm": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Raphaël Schellenberger": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Anaïs Belouassa-Cherifi": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Thomas Rudigoz": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Laurent Mouton": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Lucie Gaillot Durand": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Cyrille Isaac-Sibille": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Clémence Luisier": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Idir Boumertit": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Cédric Mermet": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Boris Tavernier": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Loïc Terrenes": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Marie-Charlotte Garin": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Sandrine Runel": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Anne Brugnera": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Yannick Chaumont": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Blandine Brocard": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Fabrice Matteucci": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Sasha Bitoum": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Gabriel Amard": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Jean-Paul Bret": {
+        "parti": "PS diss.",
+        "desist": false
+    },
+    "Abdelkader Lahmar": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Alexandre Vincendet": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Cédric Pignal": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Antoine Villedieu": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Alain Chretien": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Emeric Salmon": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Olivier Damien": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Josiane Corneloup": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Romain Lemoigne": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Eric Martineau": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Emilie Bonnivard": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Marie Dauchy": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Daniel Ibanez": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Sylvain Maillard": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Raphaël Kempf": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Rodrigo Arenas": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Céline Hervieu": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Maud Gatel": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Olivia Gregoire": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Celine Malaisé": {
+        "parti": "PCF-NFP",
+        "desist": false
+    },
+    "David Amiel": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Aminata Niakaté": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Benjamin Haddad": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Patrick Dray": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Louis Piquet": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Danielle Simonnet": {
+        "parti": "LFI diss.",
+        "desist": false
+    },
+    "Céline Verzeletti": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Sarah Legrain": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Danièle Obono": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Aymeric Caron": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Léa Balage El Mariky": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Stanislas Guerini": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Pouria Amirshahi": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Sophia Chikirou": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Emmanuel Gregoire": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Eva Sas": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Sandrine Rousseau": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Florence Herouin-Léautey": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Damien Adam": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Grégoire Houdan": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Robert Le Bourgeois": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Xavier Batut": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Edouard Bénard": {
+        "parti": "PCF-NFP",
+        "desist": false
+    },
+    "Pauline Daniel": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Patrice Martin": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Sébastien Jumel": {
+        "parti": "PCF-NFP",
+        "desist": false
+    },
+    "Jean-Paul Lecoq": {
+        "parti": "PCF-NFP",
+        "desist": false
+    },
+    "Isabelle Le Coz": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Douglas Potier": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Marie-Agnès Poussier-Winsback": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Arnaud Saint-Martin": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Théo Michel": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Aude Luquet": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Maxime Laisney": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Pryscillia Brach": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Olivier Faure": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Agnès Laffite": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Ersilia Soudais": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Arnaud Bonnet": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Hadrien Ghomi": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Manon Mourgeres": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Charles Rodwell": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Sébastien Ramage": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Anne Jacqmin": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Aurore Bergé": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Thomas Du Chalard": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Cédric Briolais": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "William Martinet": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Laurent Mazaury": {
+        "parti": "UDI-Ensemble",
+        "desist": false
+    },
+    "Victoria Doucet": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Karl Olive": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Christophe Massiaux": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Jean-Louis Mettelet": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Jean-Noël Barrot": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Maïté Carrive-Bédouani": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Gaetan Brault": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Marie Lebec": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Céline Bourdon": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Jean-François Mourtoux": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Yaël Braun-Pivet": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Yassine Benyettou": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Jacques Myard": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Natalia Pouzyreff": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Mélinda Sauger": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Sophie Lelandais": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Aurélien Rousseau": {
+        "parti": "div. g.-NFP",
+        "desist": false
+    },
+    "Nadia Hai": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Babette de Rozieres": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Benjamin Lucas": {
+        "parti": "Gen.-NFP",
+        "desist": false
+    },
+    "Cyril Nauth": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Bastien Marchive": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Nathalie Lanzi": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Dorothée Champeau": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Delphine Batho": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Mélody Garault": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Philippe Robin": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Jean-Marie Fiévet": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Zahia Hamdane": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Damien Toumi": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Hubert de Jenlis": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Matthias Renault": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Emmanuel Maquet": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Jean-Philippe Tanguy": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Anthony Gest": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Yaël Menache": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Brigitte Bareges": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Valérie Rabault": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Marine Hamelet": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Claudie Chretien": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Laure Lavalette": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Stéphane Rambaud": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Isabelle Monfort": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Philippe Lottiaux": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Julie Lechanteux": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Frank Giletti": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Frédéric Boccaletti": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Cécile Muschotti": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Philippe Schreck": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Catherine Jaouen": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Raphaël Arnault": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Hervé de Lépinau": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Marie-France Lorho": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Monia Galvez": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Pascal Dubin": {
+        "parti": "LR-RN",
+        "desist": false
+    },
+    "Stéphane Buchou": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Véronique Besse": {
+        "parti": "div. dr.",
+        "desist": false
+    },
+    "Jacques Proux": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Ilias Nagnonhou": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Julie Mariel-Godard": {
+        "parti": "PCF-NFP",
+        "desist": false
+    },
+    "Lisa Belluco": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Emmanuelle Darles": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Séverine Saint-Pé": {
+        "parti": "div. d.-Ensemble",
+        "desist": false
+    },
+    "Sacha Houlié": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Valérie Soumaille": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Estelle Chevallier": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Damien Maudet": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Camille Dos Santos de Oliveira": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Isabelle Negrier": {
+        "parti": "div. c.-Ensemble",
+        "desist": false
+    },
+    "Manon Meunier": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Albin Freychet": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Gilles Toulza": {
+        "parti": "div. c.",
+        "desist": false
+    },
+    "Stéphane Viry": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Pierre François": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Gaëtan Dussausaye": {
+        "parti": "RN",
+        "desist": false
+    },
+    "David Valence": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Christophe Naegelen": {
+        "parti": "UDI",
+        "desist": false
+    },
+    "Pauline Fresse": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Sébastien Humbert": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Jean-Jacques Gaultier": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Daniel Grenon": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Florence Loury": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Julien Odoul": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Guillaume Bigot": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Florian Chauche": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Farida Amrani": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Stéphane Beaudet": {
+        "parti": "div.",
+        "desist": false
+    },
+    "Thiebauld Vega": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Antoine Léaument": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Michael Amand": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Pierre Larrouturou": {
+        "parti": "div. g.-NFP",
+        "desist": false
+    },
+    "Paul Midy": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Claire Lejeune": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Robin Reda": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Audrey Guibert": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Bérenger Cernon": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Nicolas Dupont-Aignan": {
+        "parti": "DLF",
+        "desist": false
+    },
+    "François Durovray": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Elsa Faucillon": {
+        "parti": "PCF-NFP",
+        "desist": false
+    },
+    "Gabriel Attal": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Cécile Soubelet": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Aurélien Saintoul": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Jean-Didier Berger": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Lounes Adjroud": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Maud Bregeon": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Brice Gaillard": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Thomas Lam": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Francesca Pasquini": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Philippe Juvin": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Sabrina Sebaihi": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Isabelle de Crecy": {
+        "parti": "Hor.-Ensemble",
+        "desist": false
+    },
+    "Raphaël Pitti": {
+        "parti": "div. g.-NFP",
+        "desist": false
+    },
+    "Céline Calvez": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Constance Le Grip": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Geoffroy Didier": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Sihame Muscianisi": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Pierre Cazeneuve": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Prisca Thevenot": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Salomé Nicolas-Chavance": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Stéphane Séjourné": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Pauline Rapilly-Ferniot": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Éric Coquerel": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Nadège Abomangoli": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Clémentine Autain": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Jérôme Legavre": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Jean-François Perier": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Stéphane Peu": {
+        "parti": "PCF-NFP",
+        "desist": false
+    },
+    "Thomas Portes": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Denis Cretin-Gielly": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Soumya Bourouaha": {
+        "parti": "PCF-NFP",
+        "desist": false
+    },
+    "Mohamed Awad": {
+        "parti": "LFI",
+        "desist": false
+    },
+    "Bastien Lachaud": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Alexis Corbière": {
+        "parti": "LFI diss.",
+        "desist": false
+    },
+    "Sabrina Ali-Benali": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Fatiha Keloua Hachi": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Sébastien Jolivet": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Aurélie Trouvé": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Mathilde Panot": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Sophie Taillé-Polian": {
+        "parti": "Gen.-NFP",
+        "desist": false
+    },
+    "Clémence Guetté": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Louis Boyard": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Arnaud Barbotin": {
+        "parti": "div. dr.",
+        "desist": false
+    },
+    "Loïc Signor": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Adel Amara": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Maud Petit": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Alain Philippet": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Mathieu Lefevre": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Julien Leger": {
+        "parti": "PCF-NFP",
+        "desist": false
+    },
+    "Isabelle Huguenin-Richard": {
+        "parti": "RN",
+        "desist": false
+    },
+    "May Bouhada": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Guillaume Gouffier Valente": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Rachel Keke": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Vincent Jeanbrun": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Michel Herbillon": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Joao Martins Pereira": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Isabelle Santiago": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Anne Sicard": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Maximillien Jules-Arthur": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Émilie Chandler": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Aurélien Taché": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Lisbeth Macé": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Paul Vannier": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Gabrielle Cathala": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Estelle Folest": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Annika Bruna": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Carlos Martens Bilongo": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Arnaud Le Gall": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Agnès Marion": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Roland Lescure": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Oussama Laraichi": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Elsa Di Meo": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Amélia Lakrafi": {
+        "parti": "div. c.-Ensemble",
+        "desist": false
+    },
+    "Anne Genetet": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Franck Pajot": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Sergio Coronado": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Eléonore Caroit": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Charlotte Minvielle": {
+        "parti": "EELV-NFP",
+        "desist": false
+    },
+    "Vincent Caure": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Cécilia Gondard": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Pieyre-Alexandre Anglade": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Stéphane Vojetta": {
+        "parti": "div. c.-Ensemble",
+        "desist": false
+    },
+    "Maxime Da Silva": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Marc Ferracci": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Halima Delimi": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Frédéric Petit": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Asma Rharmaoui-Claquin": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Meyer Habib": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Caroline Yadan": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Karim Ben Cheïkh": {
+        "parti": "Gen.-NFP",
+        "desist": false
+    },
+    "Samira Djouadi": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Olivier Serva": {
+        "parti": "div. c.",
+        "desist": false
+    },
+    "Chantal Lerus": {
+        "parti": "div. c.",
+        "desist": false
+    },
+    "Christian Baptiste": {
+        "parti": "div. g.-NFP",
+        "desist": false
+    },
+    "Laurent Petit": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Max Mathiasin": {
+        "parti": "div. c.",
+        "desist": false
+    },
+    "Rody Tolassy": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Elie Califer": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Jennifer Linon": {
+        "parti": "rég.",
+        "desist": false
+    },
+    "Jiovanny William": {
+        "parti": "div.",
+        "desist": false
+    },
+    "Philippe Edmond-Mariette": {
+        "parti": "rég.",
+        "desist": false
+    },
+    "Marcellin Nadeau": {
+        "parti": "reg.-NFP",
+        "desist": false
+    },
+    "Yan Monplaisir": {
+        "parti": "div. dr.",
+        "desist": false
+    },
+    "Johnny Hajjar": {
+        "parti": "div. g.",
+        "desist": false
+    },
+    "Beatrice Bellay": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Jean-Philippe Nilor": {
+        "parti": "PCF-NFP",
+        "desist": false
+    },
+    "Grégory Michel Roy-Larentry": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Jean-Victor Castor": {
+        "parti": "div. g.",
+        "desist": false
+    },
+    "Boris Chong Sit": {
+        "parti": "div. c.",
+        "desist": false
+    },
+    "Philippe Naillet": {
+        "parti": "PS-NFP",
+        "desist": false
+    },
+    "Jean Jacques Morel": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Karine Lebon": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Christelle Begue": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Joseph Riviere": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Alexis Chaussalet": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Emeline Kbidi": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Jonathan Riviere": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Jean-Hugues Ratenon": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Joan Doro": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Frédéric Maillot": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Valérie Legros": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Perceval Gaillard": {
+        "parti": "LFI-NFP",
+        "desist": false
+    },
+    "Jean-Luc Poudroux": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Stéphane Lenormand": {
+        "parti": "div. dr.",
+        "desist": false
+    },
+    "Frédéric Beaumont": {
+        "parti": "PS",
+        "desist": false
+    },
+    "Estelle Youssouffa": {
+        "parti": "div. c.",
+        "desist": false
+    },
+    "Anchya Bamana": {
+        "parti": "RN",
+        "desist": false
+    },
+    "Mansour Kamardine": {
+        "parti": "LR",
+        "desist": false
+    },
+    "Frantz Gumbs": {
+        "parti": "MoDem-Ensemble",
+        "desist": false
+    },
+    "Alexandra Questel": {
+        "parti": "div. dr.",
+        "desist": false
+    },
+    "Mikaele Seo": {
+        "parti": "Ren.-Ensemble",
+        "desist": false
+    },
+    "Moerani Frebault": {
+        "parti": "div. c.",
+        "desist": false
+    },
+    "Nicole Sanquer": {
+        "parti": "div. c.",
+        "desist": false
+    },
+    "Steve Chailloux": {
+        "parti": "Tavini-NFP",
+        "desist": false
+    },
+    "Mereana Reid Aberlot": {
+        "parti": "Tavini",
+        "desist": false
+    },
+    "Pascale Haiti Epouse Flosse": {
+        "parti": "div. dr.",
+        "desist": false
+    },
+    "Nicolas Metzdorf": {
+        "parti": "div. dr.",
+        "desist": false
+    },
+    "Omayra Lisa Meun Naisseline": {
+        "parti": "rég.",
+        "desist": false
+    },
+    "Emmanuel Tjibaou": {
+        "parti": "div. g.",
+        "desist": false
+    },
+    "Alcide Ponga": {
+        "parti": "div. dr.",
+        "desist": false
+    },
+    "Xavier Czapla": {
+        "parti": "LFI-NFP",
+        "desist": true
+    }
+}
