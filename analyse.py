@@ -11,6 +11,12 @@ candidate_details = json.load(
     open('candidates_details.json', encoding='utf-8'))
 parse_candidates_details(candidate_details, circos)
 
+S2.generate_transfer_matrix(
+    transferring_parties=[NFP, CEN, LR, ED],
+    duels=[[NFP, ED], [CEN, ED], [LR, ED], [NFP, CEN], [NFP, LR], [CEN, LR]])
+
+exit(0)
+
 # # Pas de désistement, ni de report de voies
 # circo_no_transfer = projection(circos, False)
 # fig = plt.figure(figsize=(8, 6), dpi=100)

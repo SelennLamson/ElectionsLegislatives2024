@@ -83,3 +83,73 @@ class VoteTransferModel:
                 votes = votes.remove_candidate(candidate)
 
         return votes
+
+    def generate_transfer_matrix(self, transferring_parties: List[Party], duels: List[List[Party]]):
+        input_labels = [party.name for party in transferring_parties]
+
+        output_parties = list(set([party for duel in duels for party in duel]))
+        output_labels = [
+            party.name for party in output_parties] + ['Abstention']
+
+        all_labels = input_labels + output_labels
+        abstention_index = len(all_labels) - 1
+
+        transferred_votes = {
+            party: {} for party in transferring_parties
+        }
+        duels_per_party = {
+            party: 0 for party in transferring_parties
+        }
+
+        for party in transferring_parties:
+            single_vote = Votes({Candidate('in', party): 1.0}, abstention=0.0)
+            transferred_votes_dict = transferred_votes[party]
+
+            for duel in duels:
+                if party in duel:
+                    continue
+                duels_per_party[party] += 1
+
+                candidates = [Candidate('out' + str(i), party)
+                              for i, party in enumerate(duel)]
+                transferred_vote = self.transfer_votes(candidates, single_vote)
+
+                for candidate in candidates:
+                    if candidate.party in transferred_votes_dict:
+                        transferred_votes_dict[candidate.party] += transferred_vote.get(
+                            candidate)
+                    else:
+                        transferred_votes_dict[candidate.party] = transferred_vote.get(
+                            candidate)
+
+        averaged_transferred_votes = {}
+        for party, votes in transferred_votes.items():
+            averaged_transferred_votes[party] = {}
+            for target_party, vote in votes.items():
+                averaged_transferred_votes[party][target_party] = vote / \
+                    duels_per_party[party]
+
+        source = []
+        target = []
+        value = []
+
+        for party, votes in averaged_transferred_votes.items():
+            sum_of_votes = 0
+            for target_party, vote in votes.items():
+                source.append(input_labels.index(party.name))
+                target.append(len(input_labels) +
+                              output_labels.index(target_party.name))
+                value.append(vote)
+                sum_of_votes += vote
+            if sum_of_votes < 1.0:
+                source.append(input_labels.index(party.name))
+                target.append(abstention_index)
+                value.append(1.0 - sum_of_votes)
+
+        transfers = {
+            'source': source,
+            'target': target,
+            'value': value
+        }
+
+        return all_labels, transfers

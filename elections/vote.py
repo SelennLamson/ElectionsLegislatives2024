@@ -17,7 +17,7 @@ class Candidate:
 
     def __repr__(self) -> str:
         return f"{self.name} ({self.party.abrev})"
-    
+
     def party_or_nuance(self):
         return self.party if self.nuance is None else self.nuance
 
@@ -30,7 +30,10 @@ class Votes:
     def __add__(self, other):
         new_votes = {candidate: vote for candidate, vote in self.votes.items()}
         for candidate, vote in other.votes.items():
-            new_votes[candidate] += vote
+            if candidate in new_votes:
+                new_votes[candidate] += vote
+            else:
+                new_votes[candidate] = vote
         return Votes(new_votes, self.abstention + other.abstention)
 
     def get(self, candidate: Candidate):
