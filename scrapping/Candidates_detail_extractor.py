@@ -30,8 +30,6 @@ for ligne in div_table.find_all('div', class_='tableauLigne'):
             candidat_nom = candidat_nom.replace(' désist.', '').strip()
         
         # Récupérer le parti associé
-        #print(parti_elements)
-        #print(i)
         if i < len(parti_elements):
             parti_nom = parti_elements[i].get_text().strip()
         else:
