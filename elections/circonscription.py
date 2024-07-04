@@ -56,7 +56,7 @@ def projection(circos, desisting: bool, transfer_strategy: VoteTransferModel = N
         circo = c.copy()
 
         if not desisting:
-            circo.desisiting_candidates = []
+            circo.desisting_candidates = []
         n_desisting += len(circo.desisting_candidates)
 
         remaining_candidates = [

@@ -5,21 +5,21 @@ Mais peut-il perdre aussi la majorité relative ?
 
 :thread: Voyons ça ensemble
 
-*image de l'assemblée*
+![alt text for screen readers](/images/projections_barrages_assemblee.PNG)
 
 # Tweet 2
 La décision du désistement des candidats NFP et Ensemble dans les triangulaires n'est pas sans conséquences. On peut même dire qu'elle a été efficace. 
 On constate un gros écart si on considère un barrage parfait ou non.
 
-*image barrage parfait* *image 2eme tour = 1er tour*
+![alt text for screen readers](/images/avant_apres_desist.PNG)
 
 # Tweet 3
 Cependant, le cas d'un barrage parfait n'est pas réaliste.
 Nous avons considéré que si un parti est toujours en lice, alors son vote ne bouge pas, sinon, ses voix se dirigent vers les autres partis (visible dans l'infographie).
 Détail dans la suite.
 
-
-*insérer les 2 images de report de vote*
+![alt text for screen readers](/images/report_des_voix_barrage_efficace.PNG)
+![alt text for screen readers](/images/report_des_voix_mauvais_barrage.PNG)
 
 # Tweet 4
 Détail du scénario "Bon barrage" 1/2
