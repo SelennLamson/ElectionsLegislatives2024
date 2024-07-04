@@ -52,6 +52,8 @@ Centre:
 - 50% LR | 20% NFP
 - 0% ED | 70% LR
 
+![alt text for screen readers](/images/report_des_voix_barrage_efficace.PNG)
+
 # Tweet 7
 Détail du scénario "Barrage efficace" 2/2
 
@@ -79,6 +81,7 @@ Centre:
 - 50% LR | 20% NFP
 - 10% ED | 60% LR
 
+![alt text for screen readers](/images/report_des_voix_mauvais_barrage.png)
 # Tweet 9
 Détail du scénario "Mauvais barrage" 2/2
 

@@ -1,8 +1,11 @@
 # Elections législatives de 2024
 ## Introduction
-On voit beaucoup de graphiques sur Internet, dans les journaux, sur Twitter, alors nous voulions nous aussin nous essayer à cet exercice. Une de nos volontés était aussi de pouvoir avoir un peu plus de détails sur ces graphiques et surtout faire nos propres considérations pour les reports de vote. \
-Les données de report sont à prendre avec des pincettes, nous invitons chaque personne à tenter de son côté avec ses propres scénarios. \
+On voit beaucoup de graphiques sur Internet, dans les journaux, sur Twitter, alors nous voulions nous aussi nous essayer à cet exercice. Une de nos volontés était de pouvoir avoir un peu plus de détails sur ces graphiques et surtout faire nos propres considérations pour les reports de vote.
+
+Les données de report sont à prendre avec des pincettes, nous invitons chaque personne à tenter de son côté avec ses propres scénarios.
+
 Nos scénarios sont disponibles dans `elections/data/data.py`, ils ont été construit avec ce qui est ressortit dans les medias et ce qui **nous** paraissait le plus probable.
+
 ## Installation et execution 
 
 ## Sources et remerciements
