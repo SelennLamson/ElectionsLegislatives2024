@@ -30,37 +30,38 @@ parse_candidates_details(candidate_details, circos)
 # plt.show()
 
 # Report simple, avec désistement réel
-circos_good_block = projection(circos, True, S2)
-circos_bad_block = projection(circos, True, S5)
-# fig = plt.figure(figsize=(16, 12), dpi=100)
-# ax1 = fig.add_subplot(2, 2, 1)
-# ax2 = fig.add_subplot(2, 2, 3)
-# ax3 = fig.add_subplot(2, 2, 2)
-# ax4 = fig.add_subplot(2, 2, 4)
-# plot_hemicycle(circos_good_block,
-#                "Projection 2nd tour - Barrage efficace",
-#                ax1, nuances=True)
-# plot_hemicycle(circos_bad_block,
-#                "Projection 2nd tour - Mauvais barrage",
-#                ax2, nuances=True)
-# plot_hemicycle(circos_good_block,
-#                "Projection 2nd tour - Barrage efficace - Coallitions élargies",
-#                ax3, nuances=False)
-# plot_hemicycle(circos_bad_block,
-#                "Projection 2nd tour - Mauvais barrage - Coallitions élargies",
-#                ax4, nuances=False)
-# plt.show()
+circos_real = projection(circos, True, SREAL)
+circos_surreal = projection(circos, True, SSURREAL)
+
+fig = plt.figure(figsize=(16, 12), dpi=100)
+ax1 = fig.add_subplot(2, 2, 1)
+ax2 = fig.add_subplot(2, 2, 3)
+ax3 = fig.add_subplot(2, 2, 2)
+ax4 = fig.add_subplot(2, 2, 4)
+plot_hemicycle(circos_real,
+               "Projection 2nd tour - Barrage réel estimé",
+               ax1, nuances=True)
+plot_hemicycle(circos_surreal,
+               "Projection 2nd tour - NFP fait le meme barrage que CEN et LR",
+               ax2, nuances=True)
+plot_hemicycle(circos_real,
+               "Projection 2nd tour - Barrage réel estimé - Coallitions élargies",
+               ax3, nuances=False)
+plot_hemicycle(circos_surreal,
+               "Projection 2nd tour - NFP fait le meme barrage que CEN et LR - Coallitions élargies",
+               ax4, nuances=False)
+plt.show()
 
 fig = plt.figure(figsize=(8, 6), dpi=100)
 ax1 = fig.add_subplot(1, 1, 1)
-plot_hemicycle(circos_good_block,
-               "Projection 2nd tour - Barrage efficace - Coallitions élargies",
+plot_hemicycle(circos_real,
+               "2nd tour - Barrage réel estimé",
                ax1, nuances=False)
 plt.show()
 
 fig = plt.figure(figsize=(8, 6), dpi=100)
 ax1 = fig.add_subplot(1, 1, 1)
-plot_hemicycle(circos_bad_block,
-               "Projection 2nd tour - Mauvais barrage - Coallitions élargies",
+plot_hemicycle(circos_surreal,
+               "Projection 2nd tour - NFP fait le meme barrage que CEN et LR",
                ax1, nuances=False)
 plt.show()

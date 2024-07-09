@@ -17,20 +17,22 @@ class Circonscription:
     second_round_votes: Votes = None
 
     def __repr__(self) -> str:
-        total_votes = sum(self.first_round_votes.votes.values())
+        total_votes = sum(self.second_round_votes.votes.values())
 
         s = f"Circonscription {self.id}\n"
         s += "Candidates:\n"
         for candidate in self.candidates:
+            if candidate not in self.second_round_votes.votes:
+                continue
             s += f"  - {candidate}: "
-            s += f"{self.first_round_votes.votes[candidate] / total_votes * 100.0:.2f}% "
-            s += f"({self.first_round_votes.votes[candidate]})"
+            s += f"{self.second_round_votes.votes[candidate] / total_votes * 100.0:.2f}% "
+            s += f"({self.second_round_votes.votes[candidate]})"
             if candidate in self.eliminated_candidates:
                 s += " (eliminated)"
             elif candidate in self.desisting_candidates:
                 s += " (desisting)"
             s += "\n"
-        s += f"Abstention: {self.first_round_votes.abstention / (total_votes + self.first_round_votes.abstention) * 100.0:.2f}%\n"
+        s += f"Abstention: {self.second_round_votes.abstention / (total_votes + self.second_round_votes.abstention) * 100.0:.2f}%\n"
         return s
 
     def get_winner(self) -> Candidate:
