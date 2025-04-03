@@ -8,4 +8,4 @@ Pour le récupérer, il suffit d'ouvrir la console: `Ctrl + Shift + I` ou simple
 ```
 document.querySelector('#d_desist')
 ```
-Puis il suffira de copier ce qui a été" obtenu dans le fichier dans `data.html` \
+il suffira de copier ce qui a été obtenu dans le fichier dans `data.html` \
